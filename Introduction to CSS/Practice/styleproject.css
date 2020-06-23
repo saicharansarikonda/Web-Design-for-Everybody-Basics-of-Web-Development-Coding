@@ -1,0 +1,24 @@
+body{
+  background:rgba(200,150,100,0.75);
+}
+header{
+  text-align:center;
+  font-style: oblique;
+  background-color: rgba(255,255,255,0.15);
+  color:rgba(0,0,0,0.75);
+}
+nav,a{
+  font-family:sans-serif;
+  font-variant: small-caps;
+  color:rgba(5,0,10,.75);
+}
+h2{
+  background: rgba(200,150,100,0.75);
+  font-style: italic;
+}
+h2,ul{
+  font-style: italic;
+}
+details{
+  font-style:oblique;
+}
